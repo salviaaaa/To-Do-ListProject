@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <title>ToDoList</title>
+</head>
+<body>
+    <div class="todo-wrapper">
+        <h2>To Do List App</h2>
+        <p>"Get things done, one step at a time."</p>
+        <p>Cheer Up!! </p>
+        <div id="task-count">0 / 0</div>
+
+        <form name="todo-adder">
+            <input type="text" id="todo-entry-box" placeholder="Write your list" />
+            <button id="add-button" class="pretty-button">Add</button>
+        </form>
+        <br />
+        <ul id="todo-list">
+        </ul>
+        <div id="control-wrapper">
+            <button id="clear-completed-button" onclick="clearCompletedToDoItems()" class="pretty-button">Clear Completed</button>
+            <button id="empty-button" onclick="emptyList()" class="pretty-button">Empty List</button>
+        </div>
+    </div>
+
+    <footer class="footer">
+        <p>&copy; 2024 Salvia Maylie Budiawati. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@tsparticles/confetti@3.0.3/tsparticles.confetti.bundle.min.js"></script>
+
+</body>
+</html>
