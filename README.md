@@ -1,4 +1,5 @@
 📝 To-Do List App
+![image](https://github.com/user-attachments/assets/31ee1cf9-b0fd-4f4b-902a-6ed4b86ceb07)
 
 📄 Deskripsi
 Aplikasi To-Do List sederhana yang dibangun menggunakan HTML, CSS, dan JavaScript. Aplikasi ini memungkinkan pengguna untuk membuat, mengedit, dan menandai tugas sebagai selesai dengan mudah dan cepat.
