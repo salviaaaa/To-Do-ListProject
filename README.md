@@ -4,26 +4,26 @@
 ![image](https://github.com/user-attachments/assets/31ee1cf9-b0fd-4f4b-902a-6ed4b86ceb07)
 
 
-📄 Deskripsi
-Aplikasi To-Do List sederhana yang dibangun menggunakan HTML, CSS, dan JavaScript. Aplikasi ini memungkinkan pengguna untuk membuat, mengedit, dan menandai tugas sebagai selesai dengan mudah dan cepat.
+📄 Description A simple To-Do List app built using HTML, CSS, and JavaScript. This app allows users to create, edit, and mark tasks as completed easily and quickly.
 
-✨ Fitur
+✨ Features
 
-➕ Menambahkan Tugas: Pengguna dapat menambahkan tugas baru dengan mengetikkan tugas pada input field dan menekan tombol "Add".
+➕ Adding Tasks: Users can add new tasks by typing the task in the input field and pressing the “Add” button.
 
-✅ Menandai Tugas Selesai: Setiap tugas memiliki checkbox yang dapat dicentang untuk menandai tugas sebagai selesai.
+✅ Mark Tasks Completed: Each task has a checkbox that can be checked to mark the task as completed.
 
-🧹 Menghapus Tugas Selesai: Tombol "Clear Completed" akan menghapus semua tugas yang telah ditandai selesai.
+🧹 Clear Completed Tasks: The “Clear Completed” button will delete all tasks that have been marked complete.
 
-🗑 Menghapus Semua Tugas: Tombol "Empty List" akan menghapus semua tugas dari daftar.
+🗑 Delete All Tasks: The “Empty List” button will delete all tasks from the list.
 
-🛠 Teknologi yang Digunakan
-1. HTML: Struktur dasar halaman web.
-2. CSS: Untuk mengatur tampilan dan gaya halaman.
-3. JavaScript: Untuk menambahkan interaktivitas dan logika aplikasi.
+🛠 Technology Used
 
-🚀 Cara Menggunakan
-1. Menambahkan Tugas: Masukkan tugas baru di input field dan klik "Add" untuk menambahkannya ke daftar.
-2. Menandai Tugas Selesai: Centang checkbox di sebelah tugas untuk menandainya sebagai selesai.
-3. Menghapus Tugas Selesai: Klik tombol "Clear Completed" untuk menghapus semua tugas yang telah selesai.
-Menghapus Semua Tugas: Klik tombol "Empty List" untuk menghapus seluruh daftar tugas.
+1. HTML: The basic structure of a web page.
+2. CSS: To set the appearance and style of the page.
+3. JavaScript: To add interactivity and application logic.
+
+🚀 How to Use
+
+1. Adding Task: Enter a new task in the input field and click "Add" to add it to the list.
+2. Marking a Task Complete: Check the checkbox next to a task to mark it as complete.
+3. Clear Completed Tasks: Click the "Clear Completed" button to clear all completed tasks. Clear All Tasks: Click the "Empty List" button to clear the entire task list.
