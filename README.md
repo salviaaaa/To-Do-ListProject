@@ -4,6 +4,7 @@
 Aplikasi To-Do List sederhana yang dibangun menggunakan HTML, CSS, dan JavaScript. Aplikasi ini memungkinkan pengguna untuk membuat, mengedit, dan menandai tugas sebagai selesai dengan mudah dan cepat.
 
 ✨ Fitur
+
 ➕ Menambahkan Tugas: Pengguna dapat menambahkan tugas baru dengan mengetikkan tugas pada input field dan menekan tombol "Add".
 
 ✅ Menandai Tugas Selesai: Setiap tugas memiliki checkbox yang dapat dicentang untuk menandai tugas sebagai selesai.
