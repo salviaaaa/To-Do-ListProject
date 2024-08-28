@@ -26,4 +26,5 @@
 
 1. Adding Task: Enter a new task in the input field and click "Add" to add it to the list.
 2. Marking a Task Complete: Check the checkbox next to a task to mark it as complete.
-3. Clear Completed Tasks: Click the "Clear Completed" button to clear all completed tasks. Clear All Tasks: Click the "Empty List" button to clear the entire task list.
+3. Clear Completed Tasks: Click the "Clear Completed" button to clear all completed tasks. 
+4. Clear All Tasks: Click the "Empty List" button to clear the entire task list.
